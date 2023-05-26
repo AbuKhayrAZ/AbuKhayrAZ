@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AbuKhayr
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning PowerBI and SQL
-- 💞️ I’m looking to collaborate on Data projects
+- 💞️ I’m looking to collaborate on Data Analytics. projects
 - 📫 You can reach me on +2347039872731
 
 <!---
