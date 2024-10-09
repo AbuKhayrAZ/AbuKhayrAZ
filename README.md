@@ -1,8 +1,8 @@
-- 👋 Hi, I’m AbuKhayr
+- 👋 Hi, I am Azeez Azeez Ajibola
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning PowerBI and SQL
+- 🌱 I’m currently learning Python for Data Analysis and experienced in Microsoft Excel, PowerBI, SQL, PowerPoint for Data analysis.
 - 💞️ I’m looking to collaborate on Data Analytics projects
-- 📫 You can reach me on afwunajibola@gmail.com
+- 📫 You can reach me on azeezajibola2002@gmail.com
 
 <!---
 AbuKhayrAZ/AbuKhayrAZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
