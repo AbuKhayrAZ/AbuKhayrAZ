@@ -8,5 +8,4 @@
 AbuKhayrAZ/AbuKhayrAZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-Highly motivated and results-oriented Data Analyst with over 3 years of experience leveraging expertise in Microsoft Suite (Excel, Power BI, Word, PowerPoint) and Python programming language to transform raw data into actionable insights. Proven ability to collaborate effectively with various teams to understand their data needs, conduct in-depth analyses, and translate findings into clear and compelling visualizations. Passionate about helping businesses optimize performance and make data-driven decisions.
+Results-driven Data Analyst with over 4 years of experience in data analysis, data entry, and customer relationship management. Proficient in Microsoft Excel, Power BI, SQL, PowerPoint, Python, and Microsoft Access. Skilled in transforming complex data into actionable insights, creating interactive dashboards, and automating data processes. Experienced in using CRM tools like Zendesk to enhance customer relationships and streamline operations. Adept at presenting data-driven findings to stakeholders to support strategic decision-making. Seeking to leverage my analytical skills and technical expertise to contribute to the success of your Organization.
