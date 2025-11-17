@@ -1,11 +1,30 @@
-- 👋 Hi, I am Azeez Azeez Ajibola
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Python for Data Analysis and experienced in Microsoft Excel, PowerBI, SQL, PowerPoint for Data analysis.
-- 💞️ I’m looking to collaborate on Data Analytics projects
-- 📫 You can reach me on azeezajibola2002@gmail.com
+Data Analyst & BI Specialist Transforming Complex Data into Actionable Insights using SQL, Python, and Power BI to drive 15%+ measurable business improvements. SQL (PostgreSQL/MySQL), Python (Pandas, NumPy) and BI (Power BI)
 
 <!---
 AbuKhayrAZ/AbuKhayrAZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Results-driven Data Analyst with over 4 years of experience in data analysis, data entry, and customer relationship management. Proficient in Microsoft Excel, Power BI, SQL, PowerPoint, Python, and Microsoft Access. Skilled in transforming complex data into actionable insights, creating interactive dashboards, and automating data processes. Experienced in using CRM tools like Zendesk to enhance customer relationships and streamline operations. Adept at presenting data-driven findings to stakeholders to support strategic decision-making. Seeking to leverage my analytical skills and technical expertise to contribute to the success of your Organization.
+
+I am a Detail-Oriented Data Analyst specializing in end-to-end data pipeline management, from complex cleaning to dynamic reporting. With a foundation in Medical Biochemistry, I bring a unique, research-driven rigor to every dataset, ensuring accuracy and challenging assumptions to deliver reliable insights.
+
+My primary goal is to empower organizations with clear, concise, and data-driven decision-making. I leverage SQL for robust data extraction and manipulation, Python (Pandas) for deep-dive analysis, and Power BI to architect executive-level dashboards that reveal hidden trends and optimize operations.
+
+My track record includes analyzing and building an executive dashboard for hospital equipments procurement in Nigeria (2024) to improve healthcare procurement by 20%, analyzing student performance data to drive a 15% increase in success rates and leveraging sales data to identify repeat-purchase products for optimized inventory strategy. This repository showcases my commitment to turning raw data into measurable business value.
+
+Let's Connect: I am actively pursuing impactful Data Analyst roles where my analytical skills and dedication to data integrity can contribute to significant growth.
+
+
+Core Expertise & Technical Stack:
+
+Core Programming:	SQL (Complex Queries, Joins, Aggregation), Python (Pandas, NumPy for Cleaning/Manipulation)  
+Business Intelligence:	Power BI (Report Building, DAX), Advanced Excel (PivotTables, Power Query, VBA)  
+Analysis & Modeling:	Exploratory Data Analysis (EDA), Statistical Analysis, Data Storytelling, A/B Testing, Data Modeling  
+Data Management:	Data Cleaning & Preparation, Data Integrity, ETL/ELT Concepts, Database Management (MS Access, CRM)  
+
+
+Ready to talk Data Strategy? 
+My focus is on turning data into your competitive advantage.   
+Connect on LinkedIn: linkedin.com/in/azeez-ajibola  
+Email Me: azeezajibola2002@gmail.com
+
+I am actively working on a Power BI Dashboard focused on Healthcare procurement. I welcome feedback and project collaboration.
