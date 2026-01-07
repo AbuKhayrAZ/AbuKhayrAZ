@@ -1,4 +1,4 @@
-Data Analyst & BI Specialist Transforming Complex Data into Actionable Insights using SQL, Python, and Power BI to drive 15%+ measurable business improvements. SQL (PostgreSQL/MySQL), Python (Pandas, NumPy) and BI (Power BI)
+Data Analyst, Machine Learning Engineer & BI Specialist Transforming Complex Data into Actionable Insights using SQL, Python, and Power BI to drive 15%+ measurable business improvements | Building 90% Accurate Predicting Model. SQL (PostgreSQL/MySQL), Python (Pandas, NumPy) and BI (Power BI)
 
 <!---
 AbuKhayrAZ/AbuKhayrAZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
