@@ -18,8 +18,8 @@ Core Expertise & Technical Stack:
 
 Core Programming:	SQL (Complex Queries, Joins, Aggregation), Python (Pandas, NumPy for Cleaning/Manipulation)  
 Business Intelligence:	Power BI (Report Building, DAX), Advanced Excel (PivotTables, Power Query, VBA)  
-Analysis & Modeling:	Exploratory Data Analysis (EDA), Statistical Analysis, Data Storytelling, A/B Testing, Data Modeling
-Machine Learning Engineering: TensorFlow, PyTorch, Azure ML
+Analysis & Modeling:	Exploratory Data Analysis (EDA), Statistical Analysis, Data Storytelling, A/B Testing, Data Modeling  
+Machine Learning Engineering: TensorFlow, PyTorch, Azure ML  
 Data Management:	Data Cleaning & Preparation, Data Integrity, ETL/ELT Concepts, Database Management (MS Access, CRM)  
 
 
