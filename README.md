@@ -1,31 +1,47 @@
-Data Analyst, Machine Learning Engineer & BI Specialist Transforming Complex Data into Actionable Insights using SQL, Python, and Power BI to drive 15%+ measurable business improvements | Building 90% Accurate Predicting Model. SQL (PostgreSQL/MySQL), Python (Pandas, NumPy) and BI (Power BI)
+# 👋 Hello, I'm Azeez Ajibola Azeez
 
-<!---
-AbuKhayrAZ/AbuKhayrAZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Machine Learning Engineer | Healthcare Data Analyst | Deep Learning Enthusiast
 
-I am a Detail-Oriented Data Analyst specializing in end-to-end data pipeline management, from complex cleaning to dynamic reporting. With a foundation in Medical Biochemistry, I bring a unique, research-driven rigor to every dataset, ensuring accuracy and challenging assumptions to deliver reliable insights.
+I am a results-driven professional transitioning from a strong background in **Medical Biochemistry and Healthcare Data Analytics** into the world of **Machine Learning and Computer Vision**. I specialize in building end-to-end data pipelines and predictive models that solve real-world problems.
 
-My primary goal is to empower organizations with clear, concise, and data-driven decision-making. I leverage SQL for robust data extraction and manipulation, Python (Pandas) for deep-dive analysis, and Power BI to architect executive-level dashboards that reveal hidden trends and optimize operations.
+---
 
-My track record includes analyzing and building an executive dashboard for hospital equipments procurement in Nigeria (2024) to improve healthcare procurement by 20%, analyzing student performance data to drive a 15% increase in success rates and leveraging sales data to identify repeat-purchase products for optimized inventory strategy. This repository showcases my commitment to turning raw data into measurable business value.
+### 🛠️ Technical Toolkit
 
-Let's Connect: I am actively pursuing impactful Data Analyst roles where my analytical skills and dedication to data integrity can contribute to significant growth.
+* **Languages:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras), SQL (PostgreSQL, MySQL).
+* **Specializations:** Computer Vision (CNNs), Predictive Modeling, Healthcare Analytics, Statistical Imputation.
+* **Tools:** Microsoft Azure ML, Power BI, Git, Docker, Jupyter.
+* **Healthcare Domain:** Biochemical Data Transformation, Clinical Research Analysis, Health Informatics.
 
+---
 
-Core Expertise & Technical Stack:
+### 🔬 Featured Projects
 
-Core Programming:	SQL (Complex Queries, Joins, Aggregation), Python (Pandas, NumPy for Cleaning/Manipulation)  
-Business Intelligence:	Power BI (Report Building, DAX), Advanced Excel (PivotTables, Power Query, VBA)  
-Analysis & Modeling:	Exploratory Data Analysis (EDA), Statistical Analysis, Data Storytelling, A/B Testing, Data Modeling  
-Machine Learning Engineering: TensorFlow, PyTorch, Azure ML  
-Data Management:	Data Cleaning & Preparation, Data Integrity, ETL/ELT Concepts, Database Management (MS Access, CRM)  
+#### 🧠 [COVID-19 Detection from Chest X-Rays](https://github.com/AbuKhayrAZ/Covid19-Detection-DeepLearning)
+* **Goal:** Automating respiratory infection screening using Deep Learning.
+* **Tech:** CNN, TensorFlow, Transfer Learning (ResNet50).
+* **Focus:** Bridging medical domain knowledge with Computer Vision to improve diagnostic speed.
 
+#### 🚢 [Venice Boat Classification](https://github.com/AbuKhayrAZ/Venice-Boat-Classification-CNN)
+* **Goal:** Multi-class classification of unstructured image data.
+* **Tech:** Custom CNNs, Data Augmentation, Dropout Regularization.
+* **Focus:** Solving classification challenges in high-variance environments.
 
-Ready to talk Data Strategy? 
-My focus is on turning data into your competitive advantage.   
-Connect on LinkedIn: linkedin.com/in/azeez-ajibola  
-Email Me: azeezajibola2002@gmail.com
+#### 📈 [Business Funding Predictive Preprocessing]([link-to-repo])
+* **Goal:** Cleaning and validating high-integrity datasets for ML readiness.
+* **Focus:** Advanced statistical imputation (median/mode) for datasets with 70%+ missing values.
 
-I am actively working on a Power BI Dashboard focused on Healthcare procurement. I welcome feedback and project collaboration.
+---
+
+### 📊 My Journey: From Healthcare Insights to Predictive AI
+My background in **Medical Biochemistry** taught me the value of data precision. As a **Healthcare Data Analyst**, I realized that analyzing the past wasn't enough—I wanted to build the models that predict the future. Today, I combine my domain expertise in health with Deep Learning to build tools that make an impact.
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/azeez-ajibola](https://linkedin.com/in/azeez-ajibola)
+* **Portfolio:** [Azeez Ajibola Resume]()
+* **Email:** azeezajibola2002@gmail.com
+
+---
+*“Building intelligent systems, one epoch at a time.”*
