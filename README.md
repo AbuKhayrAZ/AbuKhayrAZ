@@ -34,7 +34,7 @@ I am a results-driven professional transitioning from a strong background in **M
 ---
 
 ### 📊 My Journey: From Healthcare Insights to Predictive AI
-My background in **Medical Biochemistry** taught me the value of data precision. As a **Healthcare Data Analyst**, I realized that analyzing the past wasn't enough—I wanted to build the models that predict the future. Today, I combine my domain expertise in health with Deep Learning to build tools that make an impact.
+My background in **Medical Biochemistry** taught me the value of data precision. As a **Healthcare Data Analyst**, I realized that analyzing the past wasn't enough; I wanted to build the models that predict the future. Today, I combine my domain expertise in health with Deep Learning to build tools that make an impact.
 
 ---
 
