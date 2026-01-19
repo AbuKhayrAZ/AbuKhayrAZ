@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Azeez Ajibola Azeez
+# 👋 Hello, I'm Azeez Ajibola Azeez - Creator of The 2-Hour Analyst OS™; an Excel-based analyst operating system used to deliver executive-ready insights in hours, not days.
 
 ### 🚀 Machine Learning Engineer | Healthcare Data Analyst | Deep Learning Enthusiast
 
